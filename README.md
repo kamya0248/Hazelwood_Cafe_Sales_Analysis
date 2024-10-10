@@ -1,7 +1,7 @@
 # Hazelwood_Cafe_Sales_Analysis
 This project analyzes sales data for Hazelwood Cafe, including transaction volumes, revenue, and product performance. Using MySQL queries for analysis and Power BI for creating an interactive dashboard for visualization, the project uncovers insights into monthly sales trends and customer preferences.
 
-** Dataset Overview**:  
+**Dataset Overview**:  
 This dataset contains transaction-level sales data from Hazelwood Cafe in 2023. It includes detailed records of product purchases, transaction timestamps, quantities, and store locations. The dataset is structured to support various data analysis tasks, such as exploring sales trends, product performance, and store analytics.
 
 **Columns**:
