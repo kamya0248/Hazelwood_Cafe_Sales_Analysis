@@ -1,7 +1,24 @@
 # Hazelwood_Cafe_Sales_Analysis
 This project analyzes sales data for Hazelwood Cafe, including transaction volumes, revenue, and product performance. Using MySQL queries for analysis and Power BI for creating an interactive dashboard for visualization, the project uncovers insights into monthly sales trends and customer preferences.
 
-**Problem Statement**
+** Dataset Overview**:  
+This dataset contains transaction-level sales data from Hazelwood Cafe in 2023. It includes detailed records of product purchases, transaction timestamps, quantities, and store locations. The dataset is structured to support various data analysis tasks, such as exploring sales trends, product performance, and store analytics.
+
+**Columns**:
+- **transaction_id**: Unique identifier for each transaction.
+- **transaction_date**: Date of the transaction (format: MM/DD/YYYY).
+- **transaction_time**: Time of the transaction (format: HH:MM:SS).
+- **transaction_qty**: Quantity of items purchased in each transaction.
+- **store_id**: Identifier for the store where the transaction occurred.
+- **store_location**: Location of the store.
+- **product_id**: Identifier for the product sold.
+- **unit_price**: Price per unit of the product (in dollars).
+- **product_category**: Category of the product (e.g., Coffee, Tea, Drinking Chocolate).
+- **product_type**: Specific type within the product category (e.g., Gourmet brewed coffee, Brewed Chai tea).
+- **product_detail**: Further description of the product (e.g., Ethiopia Rg, Spicy Eye Opener Chai Lg, Dark chocolate Lg).
+
+
+## Problem Statement
 
 ### KPI Requirements
 
