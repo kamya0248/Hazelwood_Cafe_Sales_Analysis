@@ -75,3 +75,24 @@ This dataset contains transaction-level sales data from Hazelwood Cafe in 2023. 
 - Assessing product and pricing strategies.
 - Applying data analysis techniques using SQL, Python, Excel, or Power BI for business insights.
 
+Here’s a description you can add to your README file for the Power BI dashboard:
+
+---
+
+### Power BI Dashboard
+
+In addition to SQL queries and analysis, I created an **interactive Power BI dashboard** to visualize and explore the coffee shop sales data. This dashboard provides a user-friendly interface to deep-dive into the sales performance, enabling a dynamic view of the key metrics. 
+
+**Key Features:**
+- **Total Sales Overview:** Displays total sales, quantities sold, and number of transactions across different timeframes.
+- **Sales Breakdown by Product Category and Type:** Allows users to filter and view sales data by product categories (e.g., Coffee, Tea, Snacks) and further by product types.
+- **Date-Based Analysis:** Users can filter by specific dates, months, or even drill down into daily sales figures to get detailed insights on sales trends over time.
+- **Sales by Location:** The dashboard provides insights into how sales are performing at different store locations.
+- **Time-Based Analysis:** Analyzes the sales patterns across different hours of the day and days of the week, identifying peak times for customer transactions.
+- **Comparison of Weekday vs. Weekend Sales:** Highlights how sales differ between weekdays and weekends.
+
+This dashboard allows for **dynamic filtering and interaction**, meaning that users can click on different elements (like product categories or dates) to adjust the data being displayed, making it a versatile tool for uncovering actionable insights from the sales data.
+
+You can download the **Power BI file** included in this repository to further explore the data.
+
+
