@@ -2,6 +2,10 @@
 
 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjFjMDZmMjktNjA5MC00NmMyLTg5NzctYmFmMmNiYWIyM2NhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) 
 
+## Dashboard Preview
+
+![Dashboard](Screenshots/home.png)
+
 This project analyzes sales data for Hazelwood Cafe, including transaction volumes, revenue, and product performance. Using MySQL queries for analysis and Power BI for creating an interactive dashboard for visualization, the project uncovers insights into monthly sales trends and customer preferences.
 
 **Dataset Overview**:  
